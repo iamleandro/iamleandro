@@ -2,6 +2,6 @@
 
 ### Welcome to my GitHub profile :smiley:
 
-🔭 I’m currently working on a really cool product @ [Benji](https://betterwithbenji.com). Stay tuned!  
-🌱 After a long time building products and solving problems using C# and all Azure related ecosystem, I am now learning every day a new thing with Go and GCP.  
+🔭 I mostly build commercial applications but I am looking for a nice project I am deeply interested in to contribute.
+🌱 Currently, I spend time reading white papers and I have developed an interest in computer architecture, kernels, compilers and network.
 👯 I love to learn new things. **I mean it!** If you are learning about something cool and need a bud to learn with, please [reach](https://www.linkedin.com/in/leandrodepaula-dev/) out.
